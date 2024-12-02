@@ -1,6 +1,6 @@
 {
     "users": [
-        { "username": "strdefault", "rank": "DEVELOPER" },
+        { "username": "strdefault", "rank": "ADMIN" },
         { "username": "Kriptic0", "rank": "PREMIUM" },
         { "username": "imaginationsx", "rank": "DEVELOPER" }
     ]
